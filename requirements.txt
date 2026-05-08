@@ -4,3 +4,5 @@ matplotlib
 mlxtend
 openpyxl
 plotly
+numpy
+scikit-learn
